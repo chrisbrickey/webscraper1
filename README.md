@@ -3,7 +3,7 @@ xxx
 
 
 ## Technology
-This is a Ruby app.  
+Ruby version 2.4.0p0
 
 
 ## Dependencies
@@ -21,4 +21,6 @@ xxx
 
 
 ## Upcoming Features
-* xxx
+* While loop to iterate through multiple sites
+* For sites that use Ajax (Nokogiri won't work alone), use spooky.js
+* What about sites that require authentication (username/password)?
