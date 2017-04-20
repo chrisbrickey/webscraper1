@@ -13,14 +13,10 @@ Ruby version 2.4.0p0
 
 
 ## Setup
-* Start server: `xxx`
-
-
-## Tests
-xxx
+* Run from terminal: `ruby primary.rb`
 
 
 ## Upcoming Features
 * While loop to iterate through multiple sites
 * For sites that use Ajax (Nokogiri won't work alone), use spooky.js
-* What about sites that require authentication (username/password)?
+* What about sites that require authentication (username/password)? Use Mechanize to fill out forms? Compliance issues?
