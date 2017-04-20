@@ -18,5 +18,5 @@ Ruby version 2.4.0p0
 
 ## Upcoming Features
 * While loop to iterate through multiple sites
-* For sites that use Ajax (Nokogiri won't work alone), use spooky.js
+* Use spooky.js for sites that use Ajax - Nokogiri won't work alone
 * What about sites that require authentication (username/password)? Use Mechanize to fill out forms? Compliance issues?
