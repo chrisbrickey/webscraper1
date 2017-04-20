@@ -1,5 +1,5 @@
 # webscraper1
-xxx
+This program scrapes a URL, parses by an HTML element name, and converts the section into a csv document.
 
 
 ## Technology
@@ -13,7 +13,7 @@ Ruby version 2.4.0p0
 
 
 ## Setup
-* Run from terminal: `ruby primary.rb`
+* Run from terminal: `ruby primary_file.rb`
 
 
 ## Upcoming Features
