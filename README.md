@@ -17,6 +17,7 @@ Ruby version 2.4.0p0
 
 
 ## Upcoming Features
-* While loop to iterate through multiple sites
+* Incorporate regular expressions to make parsing less clunky
+* Use mechanize to pass in forms when required (e.g. 5calls.org requires zip and issue) to get URL to scrape
+* Facilitate scraping of multiple URLs by creating a class Target to store target instances with unique URLs and target_patterns
 * Use spooky.js for sites that use Ajax - Nokogiri won't work alone
-* What about sites that require authentication (username/password)? Use Mechanize to fill out forms? Compliance issues?
